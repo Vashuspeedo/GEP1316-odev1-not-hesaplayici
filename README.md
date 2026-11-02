@@ -17,7 +17,7 @@ Program, öğrencilerin vize ve final notlarını girerek ağırlıklı not orta
 - Sonuçları TXT ve CSV dosyalarına kaydetme
 
 ## Kullanılan Teknolojiler
-- Python 3
+- Python
 - CSV modülü
 - Gemini
 - Gifthub Copilot
