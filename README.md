@@ -51,22 +51,7 @@ python main.py
 
 *Not: Kullanılan notlandırma sistemi örnek olarak belirlenmiştir. Üniversitelerin notlandırma kurallarına göre değiştirilebilir.*
 
-## Dosya Yapısı
 
-```text
-Ogrenci_Not_Hesaplayici/
-│
-├── main.py
-├── README.md
-├── ogrenci_raporu.txt
-└── ogrenci_raporu.csv
-```
-
-## Çıktı Dosyaları
-Program, öğrenci sonuçlarını iki farklı formatta kaydedebilir:
-
-- `ogrenci_raporu.txt`: Öğrenci sonuçlarını metin dosyası olarak saklar.
-- `ogrenci_raporu.csv`: Öğrenci sonuçlarını tablo formatında saklar ve Excel ile açılabilir.
 
 ## Projenin Amacı
 Bu projenin amacı, Python programlama dilinin temel konularını uygulamalı olarak öğrenmek ve kullanmaktır. Proje kapsamında fonksiyonlar, döngüler, koşullu ifadeler, listeler, sözlükler, veri doğrulama ve dosya işlemleri kullanılmıştır.
