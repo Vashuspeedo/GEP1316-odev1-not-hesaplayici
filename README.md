@@ -19,12 +19,8 @@ Program, öğrencilerin vize ve final notlarını girerek ağırlıklı not orta
 ## Kullanılan Teknolojiler
 - Python 3
 - CSV modülü
-- Listeler (Lists)
-- Sözlükler (Dictionaries)
-- Fonksiyonlar (Functions)
-- Koşullu ifadeler (If / Elif / Else)
-- Döngüler (While / For)
-- Veri doğrulama (Input Validation)
+- Gemini
+- Gifthub Copilot
 
 ## Program Nasıl Çalıştırılır?
 
