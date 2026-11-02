@@ -19,6 +19,7 @@ Program, öğrencilerin vize ve final notlarını girerek ağırlıklı not orta
 ## Kullanılan Teknolojiler
 - Python
 - CSV modülü
+- CHAT Gpt
 - Gemini
 - Gifthub Copilot
 
